@@ -72,17 +72,6 @@ This project involves cleaning, transforming, and visualizing a **dirty mobile s
 ✅ Comparing time-based data (MTD, same period last year)
 ✅ Data storytelling for business insights
 
----
-
-## 📸 Dashboard Snapshots
-
-| Sales Overview                   | MTD Trends                       | Yearly Comparison                |
-| :------------------------------- | :------------------------------- | :------------------------------- |
-| ![Dashboard1](./Screenshot1.png) | ![Dashboard2](./Screenshot2.png) | ![Dashboard3](./Screenshot3.png) |
-
-*(Replace image links with your uploaded file names)*
-
----
 
 ## 📍 Conclusion
 
